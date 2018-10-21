@@ -40,7 +40,7 @@ body {
     float:left;
 }
 .profile h3{
-    float:left:
+    float:left;
     clear:both;
     width:100%;
 }
@@ -82,9 +82,9 @@ body {
     background-color:green;
     font-weight:700;
     color:#ffffff;
-    width:60%
+    width:60%;
     margin-left:auto;
-    margin:right:auto;
+    margin-right:auto;
     padding: 1em;
 }
 fieldset.group_form{
@@ -558,7 +558,7 @@ div .divider {
         height:20px;
      }
     .profile h3{
-        float:none:
+        float:none;
         clear:both;
         width:90%;
     }
